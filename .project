@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>blogericvidal</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.google.appengine.eclipse.core.projectValidator</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.google.gdt.eclipse.core.webAppProjectValidator</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>com.google.appengine.eclipse.core.enhancerbuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.groovy.core.groovyNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>com.google.appengine.eclipse.core.gaeNature</nature>
+		<nature>com.google.gdt.eclipse.core.webAppNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>lib-global_dsld_support</name>
+			<type>2</type>
+			<location>C:/Users/evidal/.groovy/greclipse/global_dsld_support</location>
+		</link>
+		<link>
+			<name>lib-plugin_dsld_support</name>
+			<type>2</type>
+			<location>C:/DATA/Eclipse/sts-2.8.0.RELEASE/plugins/org.codehaus.groovy_1.7.10.xx-20110929-1800-e37/plugin_dsld_support</location>
+		</link>
+	</linkedResources>
+</projectDescription>

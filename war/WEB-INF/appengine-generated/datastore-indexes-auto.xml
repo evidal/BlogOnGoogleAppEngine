@@ -1,0 +1,11 @@
+<!-- Indices written at Tue, 14 Feb 2012 22:36:18 UTC -->
+
+<datastore-indexes>
+
+    <!-- Used 22 times in query history -->
+    <datastore-index kind="BlogEntry" ancestor="false" source="auto">
+        <property name="published" direction="asc"/>
+        <property name="datePublication" direction="desc"/>
+    </datastore-index>
+
+</datastore-indexes>

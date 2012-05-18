@@ -1,0 +1,160 @@
+body{
+	font-family:Helvetica, Helvetica Neue, Arial, sans-serif;
+}
+
+.wrapper{
+	margin:auto;
+	width:960px;
+}
+
+#header-container{
+	background-color:#000;
+	height:130px;
+	border-bottom:5px solid #eee;
+	margin-bottom:50px;
+	-webkit-box-shadow:0 40px 40px -40px #AAA;
+	   -moz-box-shadow:0 40px 40px -40px #AAA;
+	        box-shadow:0 40px 40px -40px #AAA;
+}
+
+h2, h3{
+	margin:14px 0;
+}
+
+#title, h2, h3{
+	font-weight:normal;	
+}
+
+#title{
+	font-size: 45px;
+	color:white;
+	padding-top:35px;
+	float:left;
+}
+
+h2{
+	font-size: 25px;
+}
+
+h3{
+	font-size: 20px;
+}
+
+nav{
+	float:right;
+	margin-top:100px;
+}
+
+nav ul, nav ul li{
+	display:inline;
+}
+
+nav a{
+	padding:15px;
+	color:black;
+	
+	text-decoration:none;
+	background-color:#eee;
+}
+
+aside{
+	color:white;
+	padding:20px;
+	float:right;
+	height:500px;
+	width:200px;
+	background-color:#000;
+	border-bottom:5px solid #eee;
+	border-right:2px solid #eee;
+	margin-bottom:50px;
+	-webkit-box-shadow:0 0px 40px -10px #AAA;
+	   -moz-box-shadow:0 0px 40px -10px #AAA;
+	        box-shadow:0 0px 40px -10px #AAA;	
+}
+
+fieldset {
+    border:none;
+    clear:both;
+    padding:0.25em;
+}
+
+label.blogform {
+	float:left;
+    width:7em;
+}
+
+label.error {
+	float:left;
+    width:7em;
+    color:red;
+}
+
+#main p{
+	font:16px/26px Helvetica, Helvetica Neue, Arial;
+	width:620px;
+	text-shadow:none;
+}
+
+#main header h2{
+	padding-bottom:30px;
+}
+
+article header{
+	margin-bottom:0px;
+	padding-bottom:0px;
+	width:700px;
+	-webkit-box-shadow:0 45px 60px -60px #AAA;
+	   -moz-box-shadow:0 45px 60px -60px #AAA;
+	        box-shadow:0 45px 60px -60px #AAA;
+}
+
+#footer-container{
+	bottom:0;
+	width:100%;
+	background-color:#000;
+	height:40px;
+	border-top:5px solid #eee;
+	margin-top:50px;
+	-webkit-box-shadow:0 -40px 40px -40px #AAA;
+	   -moz-box-shadow:0 -40px 40px -40px #AAA;
+	        box-shadow:0 -40px 40px -40px #AAA;
+}
+
+#footer-container footer{
+	color:white;
+}
+
+.info{
+	position:absolute;
+	top:5px;
+	background-color:white;
+	padding:10px;
+}
+
+.button{
+	text-decoration:none;
+	display: inline-block;
+}
+
+.button:hover{
+	text-decoration:none;
+	display: inline-block;
+}
+
+aside a, aside a:active, aside a:visited{
+	color: white;
+}
+
+#jquery-test{
+	top:45px;
+}
+
+.ir { display: block; text-indent: -999em; overflow: hidden; background-repeat: no-repeat; text-align: left; direction: ltr; }
+.hidden { display: none; visibility: hidden; }
+.visuallyhidden { border: 0; clip: rect(0 0 0 0); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute; width: 1px; }
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus { clip: auto; height: auto; margin: 0; overflow: visible; position: static; width: auto; }
+.invisible { visibility: hidden; }
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }

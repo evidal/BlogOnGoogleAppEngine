@@ -1,0 +1,251 @@
+<map version="0.9.0">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1328085215411" ID="ID_921327601" MODIFIED="1328173375607" TEXT="Target Me Inputs">
+<richcontent TYPE="NOTE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      Join on:
+    </p>
+    <p>
+      - email
+    </p>
+    <p>
+      - facebook id
+    </p>
+    <p>
+      - MSISDN
+    </p>
+    <p>
+      - Linked In Id
+    </p>
+    <p>
+      - Twitter Id
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1328085395120" ID="ID_609198455" MODIFIED="1328087417257" POSITION="right" TEXT="Network Operator">
+<node CREATED="1328086503115" ID="ID_265053856" MODIFIED="1328101416257" TEXT="SS7">
+<node CREATED="1328087433971" ID="ID_18358423" MODIFIED="1328089423685" TEXT="IMSI">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328087441139" ID="ID_1017196393" MODIFIED="1328089426452" TEXT="IMEI">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328101421369" ID="ID_1837669702" MODIFIED="1328101487492" TEXT="MAM">
+<icon BUILTIN="info"/>
+</node>
+</node>
+<node CREATED="1328086693763" ID="ID_1171525480" MODIFIED="1328087459996" TEXT="HLR">
+<node CREATED="1328087462587" ID="ID_655013197" MODIFIED="1328089430341" TEXT="IMSI">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328087480508" ID="ID_1365989492" MODIFIED="1328089433853" TEXT="MSISDN">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328089443638" ID="ID_912011321" MODIFIED="1328089453174" TEXT="Subscriptions">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328102558779" ID="ID_470629133" MODIFIED="1328111775392" TEXT="Custom Development">
+<icon BUILTIN="info"/>
+</node>
+</node>
+<node CREATED="1328089679417" ID="ID_1152994189" MODIFIED="1328102581534" TEXT="Other Systems">
+<node CREATED="1328087511942" ID="ID_295562940" MODIFIED="1328089438124" TEXT="Location">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328089464871" ID="ID_688092323" MODIFIED="1328089477902" TEXT="Personal Data">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1328089482000" ID="ID_1624121213" MODIFIED="1328089639638" TEXT="Birth">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328089488945" ID="ID_1704366322" MODIFIED="1328089642518" TEXT="Address">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328089501817" ID="ID_161902729" MODIFIED="1328089633653" TEXT="Social Categories">
+<icon BUILTIN="help"/>
+</node>
+</node>
+<node CREATED="1328089822375" ID="ID_1591384655" MODIFIED="1328089835118" TEXT="last renewal">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328090023351" ID="ID_1451530679" MODIFIED="1328090028799" TEXT="ARPU">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328102589929" ID="ID_972933570" MODIFIED="1328111770023" TEXT="Custom Development">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+<node CREATED="1328086318235" ID="ID_1102768529" MODIFIED="1328104231877" POSITION="left" TEXT="Twiter">
+<node CREATED="1328091004020" ID="ID_1182392918" MODIFIED="1328091012948" TEXT="Profiles">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1328092423418" ID="ID_670532618" MODIFIED="1328094991115" TEXT="How to join on central Profile">
+<icon BUILTIN="help"/>
+</node>
+</node>
+<node CREATED="1328092378407" ID="ID_239919804" MODIFIED="1328092391657" TEXT="re-tweet">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328092394963" ID="ID_1106622460" MODIFIED="1328092409066" TEXT="hashtag monitoring">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328104208739" ID="ID_252644203" MODIFIED="1328111742376" TEXT="Generic development">
+<icon BUILTIN="info"/>
+<node CREATED="1328104275995" ID="ID_2545028" MODIFIED="1328104283791" TEXT="custom configuration">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+<node CREATED="1328086356277" ID="ID_137658035" MODIFIED="1328086380126" POSITION="right" TEXT="Custom Data">
+<node CREATED="1328087663691" ID="ID_517499754" MODIFIED="1328094216443" TEXT="Freemium, segment your own data">
+<icon BUILTIN="idea"/>
+<node CREATED="1328094911477" ID="ID_1966436976" MODIFIED="1328094966569" TEXT="Customer Database">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328094923453" ID="ID_558183209" MODIFIED="1328094967305" TEXT="3rd party customer database">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328094938468" ID="ID_43197037" MODIFIED="1328094967929" TEXT="Organisation Category ">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328102619726" ID="ID_315257043" MODIFIED="1328102653500" TEXT="Generic Development">
+<icon BUILTIN="info"/>
+</node>
+</node>
+<node CREATED="1328094186382" ID="ID_1558230809" MODIFIED="1328094220539" TEXT="Premium, merge with our data">
+<icon BUILTIN="idea"/>
+</node>
+</node>
+<node CREATED="1328086383982" ID="ID_1423775603" MODIFIED="1328094226270" POSITION="left" TEXT="Mobile Application">
+<node CREATED="1328091017557" ID="ID_237875078" MODIFIED="1328094088811" TEXT="Library to include">
+<node CREATED="1328094078492" ID="ID_1393479765" MODIFIED="1328094101179" TEXT="Location">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328094120958" ID="ID_1454714055" MODIFIED="1328094136568" TEXT="Applications List">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328104307528" ID="ID_951327164" MODIFIED="1328111747768" TEXT="Generic development">
+<icon BUILTIN="info"/>
+<node CREATED="1328104275995" ID="ID_1372095364" MODIFIED="1328104283791" TEXT="custom configuration">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+<node CREATED="1328094062259" ID="ID_341592410" MODIFIED="1328104337143" TEXT="Custom Mobile Application">
+<icon BUILTIN="info"/>
+</node>
+</node>
+<node CREATED="1328087560248" ID="ID_287468806" MODIFIED="1328103091474" POSITION="right" TEXT="Identified User on Web Site">
+<node CREATED="1328087585656" ID="ID_617704712" MODIFIED="1328087601106" TEXT="IP">
+<node CREATED="1328087594025" ID="ID_1543763541" MODIFIED="1328090523341" TEXT="Location">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328087603113" ID="ID_978056531" MODIFIED="1328090533454" TEXT="Network Provider">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1328103095138" ID="ID_1690451714" MODIFIED="1328103112557" TEXT="Generic Development">
+<icon BUILTIN="info"/>
+</node>
+</node>
+<node CREATED="1328086339140" ID="ID_1228840863" MODIFIED="1328086347527" POSITION="right" TEXT="Sicap Products">
+<node CREATED="1328090392598" ID="ID_1649620783" MODIFIED="1328090577451" TEXT="End User Database">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328090544269" ID="ID_961466846" MODIFIED="1328090580739" TEXT="Configurations">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328090558069" ID="ID_1763069728" MODIFIED="1328090591393" TEXT="MMG Service Usage">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328103118186" ID="ID_1035614639" MODIFIED="1328111765342" TEXT="Generic development">
+<icon BUILTIN="info"/>
+</node>
+</node>
+<node CREATED="1328086307898" ID="ID_67837639" MODIFIED="1328111394424" POSITION="left" TEXT="Facebook">
+<node CREATED="1328087342310" ID="ID_1408607618" MODIFIED="1328087350215" TEXT="Likes">
+<node CREATED="1328087864020" ID="ID_1769751142" MODIFIED="1328094093564" TEXT="get profiles list"/>
+</node>
+<node CREATED="1328087354591" ID="ID_1117783431" MODIFIED="1328087360359" TEXT="Comments">
+<node CREATED="1328087877789" ID="ID_1270889195" MODIFIED="1328091944811" TEXT="get profiles list">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1328087364655" ID="ID_1317672517" MODIFIED="1328087841475" TEXT="Profiles">
+<arrowlink DESTINATION="ID_1317672517" ENDARROW="Default" ENDINCLINATION="0;0;" ID="Arrow_ID_1512526123" STARTARROW="None" STARTINCLINATION="0;0;"/>
+<node CREATED="1328087824138" ID="ID_1873711613" MODIFIED="1328099798277" TEXT="get full public profile join on MSISDN">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328087891166" ID="ID_667386787" MODIFIED="1328099809018" TEXT="get friends of profile">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1328088678021" ID="ID_1267723910" MODIFIED="1328088687302" TEXT="Application">
+<node CREATED="1328088691414" ID="ID_256998381" MODIFIED="1328091974733" TEXT="get full public profile">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1328111428053" ID="ID_1867774556" MODIFIED="1328111701291" TEXT="Generic development">
+<icon BUILTIN="info"/>
+<node CREATED="1328104275995" ID="ID_259674111" MODIFIED="1328104283791" TEXT="custom configuration">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+<node CREATED="1328086327317" ID="ID_927717174" MODIFIED="1328086331782" POSITION="left" TEXT="LinkedIn">
+<node CREATED="1328087656211" ID="ID_1738447177" MODIFIED="1328089409048" TEXT="Profiles">
+<node CREATED="1328089344794" ID="ID_406440048" MODIFIED="1328094791563" TEXT="People and Connections">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328089353859" ID="ID_330734137" MODIFIED="1328094794474" TEXT="Groups">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328089361691" ID="ID_1183929441" MODIFIED="1328094794962" TEXT="Companies">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328089372291" ID="ID_402305414" MODIFIED="1328094795434" TEXT="Jobs">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328089391108" ID="ID_528325676" MODIFIED="1328094802890" TEXT="Social Stream">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328089411861" ID="ID_1066109152" MODIFIED="1328094802242" TEXT="Communications">
+<icon BUILTIN="button_ok"/>
+</node>
+</node>
+<node CREATED="1328115376437" ID="ID_980250053" MODIFIED="1328115389780" TEXT="Generic Development">
+<icon BUILTIN="info"/>
+<node CREATED="1328104275995" ID="ID_997429792" MODIFIED="1328104283791" TEXT="custom configuration">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+<node CREATED="1328086286946" ID="ID_868031321" MODIFIED="1328086299926" POSITION="right" TEXT="Device Database">
+<node CREATED="1328090048528" ID="ID_1386025009" MODIFIED="1328090224815" TEXT="Device Brand">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328090062121" ID="ID_1814164170" MODIFIED="1328090229150" TEXT="Device Model">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328090070632" ID="ID_82471005" MODIFIED="1328090231726" TEXT="Device Capabilities">
+<icon BUILTIN="button_ok"/>
+</node>
+<node CREATED="1328090244206" ID="ID_197613874" MODIFIED="1328090258835" TEXT="Device Category">
+<icon BUILTIN="help"/>
+</node>
+<node CREATED="1328103137778" ID="ID_817007303" MODIFIED="1328111755895" TEXT="Generic Development">
+<icon BUILTIN="info"/>
+</node>
+</node>
+<node CREATED="1328173381023" ID="ID_94151033" MODIFIED="1328173425063" POSITION="left" TEXT="API">
+<icon BUILTIN="button_ok"/>
+<node CREATED="1328173398061" ID="ID_1870344966" MODIFIED="1328173429023" TEXT="Generic Devlopment">
+<icon BUILTIN="info"/>
+</node>
+</node>
+</node>
+</map>

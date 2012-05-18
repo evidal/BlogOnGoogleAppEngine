@@ -1,0 +1,129 @@
+/*  ---------------------------------------------------------------------
+    | Buttons, containers and other stuff, you shouldn't change this    |
+    --------------------------------------------------------------------*/
+.reditor-container                          { border:1px solid #dddddd; 
+                                              border-bottom: 2px solid #dddddd;
+                                              background-color:#eeeeee; float:left; padding:1px }
+
+.reditor                                    { overflow-x:hidden; overflow-y:scroll; padding:15px; 
+                                              background-color:#ffffff; margin-left:1px; outline:0; }
+                                              
+.reditor button                             { outline:0 ! important; }
+                                              
+.reditor-debug-console                      { position:absolute; top:10px; right:10px; width:600px; height:200px; background-color:#ffffff; 
+                                              border:2px solid #000000; font-family:courier new; font-size:0.8em;
+                                              color:#000000; overflow-y:scroll; overflow-x:hidden; padding:10px; }
+                                              
+.reditor-tab-container                      { padding:4px 0px 1px 0px; }
+.reditor-tab-container span                 { padding:2px; border-bottom:0px ! important; cursor:pointer;
+                                              font-size:0.7em; }
+.reditor-slider                             { width:80px; }
+.reditor-slider .ui-slider-range            { }
+.reditor-slider .ui-slider-handle           { }
+.reditor-slider-value                       { position:absolute; left:0px; bottom:0px; width:40px; margin-left:-2px; 
+                                              margin-bottom:-20px; text-align:center; border:2px solid #999999 ! important; }
+                                              
+.reditor-slider-container                   { position:absolute; display:none;
+                                              border:2px solid #999999 ! important; padding-top:15px; padding-left:15px; padding-right:15px;
+                                              padding-bottom:15px; z-index:90; font-size:60% ! important; }
+
+.reditor-dropdown                           { overflow-y:scroll; background-color:#ffffff; 
+                                              border-right:1px solid #888888;
+                                              border-bottom:1px solid #888888; 
+                                              border-left:1px solid #bbbbbb;
+                                              border-top:1px solid #bbbbbb; height:100% }
+                                              
+.reditor-dropdown-container                  
+                                            { position:absolute; max-width:300px; height:300px; width:220px;
+                                              background-position:bottom right; background-repeat:no-repeat;
+                                              z-index:999; display:none; padding-bottom:17px;
+                                              padding-right:14px;}
+
+.reditor-dropdown-item                      { cursor:pointer; padding:5px; margin:2px; border:1px solid #dddddd; }
+
+.reditor-dropdown-item:hover                { border:1px solid #999999; }
+
+.reditor-retop                              { padding:2px; padding-bottom:12px; }
+
+.reditor-remenu                             { position:absolute; z-index:89; padding:10px; }
+
+.reditor-reinfo                             { text-align:right; padding:4px; height:15px; }
+
+.reditor-reinfo span                        { font-size:0.7em; font-family:Verdana; 
+                                              cursor:pointer; height:100%; margin-left:2px; }
+
+.reditor-remenu-icon-split,
+.reditor-remenu-icon,
+.reditor-remenu-select                      { margin-top:4px; padding: 1px; cursor: pointer; background-color:transparent; 
+                                              border:0px ! important; outline:0; }
+
+
+.reditor-remenu-select                      { margin-left:-2px; }
+
+.reditor-remenu-hover                       {  }
+
+.reditor-remenu-icon-split img,
+.reditor-remenu-icon img,
+.reditor-remenu-select img                  { margin-top:1px; padding:-1px; }
+
+                                              
+.reditor-separator                          { height:10px; margin-right:2px; margin-left:4px;
+                                              margin-top:2px; margin-bottom:2px; }
+                                              
+.reditor-tagName                            { position:relative; padding:2px }
+
+.reditor-current-element                    { /* background-image:url(img/transparency_layer.png); */ }
+
+.reditor-marker                             { position:absolute; height:15px; overflow:hidden; }
+.reditor-marker span                        { font-size:0.6em; margin:2px; font-family:Verdana; float:left; font-weight:bold; }
+.reditor-marker img                         { border:0px; float:right; cursor:pointer; }
+
+/*  ---------------------------------------------------------------------
+    | Reditor elements (default styles)                                 |
+    --------------------------------------------------------------------*/
+/*.reditor-content-table                      { border:2px solid #888888; border-collapse:collapse; }
+
+.reditor-content-table td                   { border:1px solid #888888; border-collapse:collapse; }*/
+                                             
+.reditor-dialog-input                       { display:block; margin-top:5px; margin-bottom:2px; border:1px solid #555555; padding:2px; }
+.reditor-dialog-no-border                   { display:block; margin-top:5px; margin-bottom:2px; }
+.reditor-dialog-description                 { font-size:70%; margin-bottom:10px; margin-top:0px; padding:0px; }
+
+
+/*  ---------------------------------------------------------------------
+    | The File Browser                                                  |
+    --------------------------------------------------------------------*/
+#reditor-browser                            { background-color:#ffffff; border:1px solid #cccccc; padding:10px;
+                                              margin-bottom:20px; height:200px; font-size:0.8em; width:650px; }
+
+.reditor-browser-folder, 
+.reditor-browser-file                       { height:16px; width:100px; padding-left:20px; padding-top:2px; cursor:pointer; 
+                                              float:left; color:#666666; text-decoration:none; overflow:hidden; margin-left:5px;
+                                              margin-right:5px; }
+                                              
+.reditor-browser-folder:hover, 
+.reditor-browser-file:hover                 { color:#000000; text-decoration:underline; }
+
+.reditor-browser-folder                     { background-image:url(img/ico/folder.png); background-repeat:no-repeat; }
+
+.reditor-browser-file                       { background-repeat:no-repeat; }
+
+.reditor-browser-text                       { background-image:url(img/ico/mini/page.gif); }
+
+.reditor-browser-image                      { background-image:url(img/ico/mini/page_colors.gif); }
+
+.reditor-browser-video                      { background-image:url(img/ico/mini/page_video.gif); }
+
+.reditor-browser-audio                      { background-image:url(img/ico/mini/page_sound.gif); }
+
+.reditor-browser-preview                    { float:left; width:20%; min-width:20%; border:5px solid #eeeeee; max-height:150px; }
+
+.reditor-browser-explorer                   { overflow-y:scroll; float:left; width:76%; height:200px; border-left:2px solid #efefef;
+                                              margin-left:5px; }
+
+/*  ---------------------------------------------------------------------
+    | Font Size                                                         |
+    --------------------------------------------------------------------*/
+.ui-dialog                                          { font-size:90% ! important; }
+.tabs                                               { font-size:70% ! important; }
+.accordion                                          { font-size:70% ! important; }
